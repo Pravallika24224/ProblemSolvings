@@ -38,5 +38,6 @@ class Calculator {
     this.result
   }
 }
+let calC = new Calculator()
 
-module.exports = Calculator;
+console.log(calC)
